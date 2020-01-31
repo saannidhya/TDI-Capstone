@@ -3,7 +3,7 @@ Data Science job market analysis
 
 
 ## Data Source
-Data for major U.S metropolitan cities was scraped from Indeed's website
+Data for major U.S metropolitan cities was scraped from Indeed's website.
 source: https://www.indeed.com
 
 ## Data Description
