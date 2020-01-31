@@ -17,6 +17,11 @@ Columns -
 5. 3 - Salary 
 6. 4 - Job Summary
 
+## Exploratory Data Analysis
+Brief exploratory data analysis was performed on the scraped dataset after cleaning it. 
+For insights, observe the bar plots in the "plots" folder.
 
 
-
+## Future Scope
+1. Perform in-depth inferential analysis on data science job market statistics and make recommendations based on job location, type, salary and company.
+2. Create a predictive model that predicts whether a particular candidate will accept or reject the offer based on various features associated with a company's job posting.
